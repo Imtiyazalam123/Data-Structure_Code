@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1615236284 source:f:\data structures assignment\sorting_programs\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1615236286 source:f:\data structures assignment\sorting_programs\quick.c
+

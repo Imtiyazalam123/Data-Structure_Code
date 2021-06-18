@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1615989948 source:f:\data structures assignment\graph\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1616005538 source:f:\data structures assignment\graph\garph.c
+	<conio.h>
+	<stdio.h>
+	<stdlib.h>
+
